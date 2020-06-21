@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.user-section {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  padding: 40px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
